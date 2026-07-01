@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <!-- Login (primary CTA pill) -->
         <a href="login.html"
-          class="px-5 py-2.5 rounded-xl bg-[#8B4513] text-white text-sm font-bold hover:bg-[#6B3410] shadow-md transition duration-200">
+          class="px-5 py-2.5 rounded-xl border-2 border-transparent bg-[#8B4513] text-white text-sm font-bold hover:bg-[#6B3410] shadow-md transition duration-200">
           Login
         </a>
 
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <a href="sign.html" class="w-full text-center py-3 rounded-xl border-2 border-[#8B4513] text-[#8B4513] text-sm font-bold hover:bg-[#8B4513] hover:text-white transition duration-200">
           Sign Up
         </a>
-        <a href="login.html" class="w-full text-center py-3 rounded-xl bg-[#8B4513] text-white text-sm font-bold hover:bg-[#6B3410] shadow-md transition duration-200">
+        <a href="login.html" class="w-full text-center py-3 rounded-xl border-2 border-transparent bg-[#8B4513] text-white text-sm font-bold hover:bg-[#6B3410] shadow-md transition duration-200">
           Login
         </a>
       </div>
